@@ -7,7 +7,7 @@ We actullay now published a Eooks(current on kobo.com : Designing Your Own PCIe 
 which is a Step by Step Hand-on Labs to shwo anyone who wants to learn and build PCIe JPEG Encoder on FPGA 
 and Tested it with DMA Driver and C/C++ test program. 
 
-#Introduction Video Clip https://www.youtube.com/watch?v=30IyLIe_UO0
+# Introduction Video Clip https://www.youtube.com/watch?v=30IyLIe_UO0
 
 This is an introduction of a practical Ebook about how to design your own PCIe JPEG Encoder on FPGA 
 as well as the C+++ software to control the FPGA design by PCIe, Driver and DMA. 
