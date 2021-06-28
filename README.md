@@ -1,4 +1,4 @@
-# fpga-pcie-dma-jpeg-encoder
+# Ebook FPGA PCIe XDMA JPEG Encoder with C++ application 
 # Designing Your Own PCIe JPEG Encoder on FPGA
 
 Here we're uploading some opensource files used in our FPGA PCIe DMA JPEG Encoder.
